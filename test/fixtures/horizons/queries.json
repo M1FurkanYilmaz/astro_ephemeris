@@ -1,0 +1,294 @@
+{
+ "retrieved": "2026-11-13",
+ "api": "https://ssd.jpl.nasa.gov/api/horizons.api",
+ "series": {
+  "sun": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'10'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:11 2026 Pasadena, USA      / Horizons",
+    "Target body name: Sun (10)                        {source: DE441}"
+   ]
+  },
+  "mercury": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'199'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:15 2026 Pasadena, USA      / Horizons",
+    "Target body name: Mercury (199)                   {source: DE441}"
+   ]
+  },
+  "venus": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'299'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:20 2026 Pasadena, USA      / Horizons",
+    "Target body name: Venus (299)                     {source: DE441}"
+   ]
+  },
+  "mars": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'499'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:24 2026 Pasadena, USA      / Horizons",
+    "Target body name: Mars (499)                      {source: mar099}"
+   ]
+  },
+  "jupiter": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'599'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:29 2026 Pasadena, USA      / Horizons",
+    "Target body name: Jupiter (599)                   {source: jup365_merged}"
+   ]
+  },
+  "saturn": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'699'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:33 2026 Pasadena, USA      / Horizons",
+    "Target body name: Saturn (699)                    {source: sat441l}"
+   ]
+  },
+  "uranus": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'799'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:38 2026 Pasadena, USA      / Horizons",
+    "Target body name: Uranus (799)                    {source: ura184_merged}"
+   ]
+  },
+  "neptune": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'899'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:42 2026 Pasadena, USA      / Horizons",
+    "Target body name: Neptune (899)                   {source: nep098_merged}"
+   ]
+  },
+  "pluto": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'999'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:46 2026 Pasadena, USA      / Horizons",
+    "Target body name: Pluto (999)                     {source: plu060_merged}"
+   ]
+  },
+  "chiron": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'2060;'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'37 d'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 1975,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:51 2026 Pasadena, USA      / Horizons",
+    "Target body name: 2060 Chiron (1977 UB)           {source: JPL#171}"
+   ]
+  },
+  "moon_long": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'301'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2415020.5'",
+    "STOP_TIME": "'JD2488069.5'",
+    "STEP_SIZE": "'10512 m'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 10007,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:08:55 2026 Pasadena, USA      / Horizons",
+    "Target body name: Moon (301)                      {source: DE441}"
+   ]
+  },
+  "moon_fine": {
+   "params": {
+    "format": "json",
+    "COMMAND": "'301'",
+    "OBJ_DATA": "NO",
+    "MAKE_EPHEM": "YES",
+    "EPHEM_TYPE": "OBSERVER",
+    "CENTER": "'500@399'",
+    "START_TIME": "'JD2460310.5'",
+    "STOP_TIME": "'JD2461041.5'",
+    "STEP_SIZE": "'6 h'",
+    "QUANTITIES": "'20,31'",
+    "TIME_TYPE": "UT",
+    "EXTRA_PREC": "YES",
+    "ANG_FORMAT": "DEG",
+    "CAL_FORMAT": "JD",
+    "CSV_FORMAT": "YES"
+   },
+   "rows": 2925,
+   "header": [
+    "Ephemeris / API_USER Fri Nov 13 00:09:01 2026 Pasadena, USA      / Horizons",
+    "Target body name: Moon (301)                      {source: DE441}"
+   ]
+  }
+ }
+}

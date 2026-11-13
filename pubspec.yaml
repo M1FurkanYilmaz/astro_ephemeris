@@ -1,0 +1,19 @@
+name: astro_ephemeris
+description: >-
+  Pure-Dart ephemeris: planet, Moon, node, Lilith and Chiron positions, house
+  systems, sidereal time, Delta T and eclipses. No native code or assets.
+version: 0.1.0
+repository: https://github.com/M1FurkanYilmaz/astro_ephemeris
+issue_tracker: https://github.com/M1FurkanYilmaz/astro_ephemeris/issues
+topics:
+  - astronomy
+  - astrology
+  - ephemeris
+  - science
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  lints: ^5.1.1
+  test: ^1.25.0
